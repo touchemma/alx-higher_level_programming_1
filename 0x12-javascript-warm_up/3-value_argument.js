@@ -1,6 +1,3 @@
-
- 
-
 #!/usr/bin/node
 /*
    A js script that only prints the first argument passed to it on the
